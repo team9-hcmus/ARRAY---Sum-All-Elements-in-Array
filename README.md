@@ -1,1 +1,1 @@
-# ARRAY---T-ng-T-t-C-Gi-Tr-Nh-p-V-o-Trong-M-ng
+# ARRAY--Tổng Tất Cả Giá Trị Nhập Vào Trong Mảng
